@@ -1,5 +1,7 @@
 # Data Cleaning & Preparation: NYC Airbnb 2019
 
+**Author:** Mohd Aayan
+
 ## Dataset
 AB_NYC_2019 — 48,895 Airbnb listings in New York City, 16 columns.
 Source: Kaggle (New York City Airbnb Open Data)
